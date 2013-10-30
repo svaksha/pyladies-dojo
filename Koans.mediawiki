@@ -1,0 +1,10 @@
+
+This page is a place holder for agendas for the weekly (Saturday) dojo sessions. Feel free to suggest another tutorial or free book that will help you learn Python. If you have specific topics that you want to do a deep dive into, programatically, list them too.
+
+=== Tutorials ===
+* Learn Python the hard way, [http://learnpythonthehardway.org LPTHW]
+* Dive into Python.
+* How to think like a Computer Scientist.
+
+=== Topics === 
+* <your topic here>
