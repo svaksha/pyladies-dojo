@@ -1,11 +1,11 @@
 
 Welcome to the [https://github.com/svaksha/pyladies-dojo/ Pyladies-Dojo repo], our planning space for the python-dojo events.
 
-Pyladies will be hosting Python coding dojos for women on a weekly basis and this repo contains some pages with useful information that you should read first.
+Pyladies will be hosting Python coding dojos for women on a weekly basis and this repo contains a few notes you will need to know to make the best of the weekly meetups inorder to help it run as smoothly as possible.
 
 
 == Sat, 2013-11-09 Dojo ==
-* [http://learnpythonthehardway.org LPTHW]
+* [http://learnpythonthehardway.org LPTHW].
 Add your tutorials and topic suggestions to the [https://github.com/svaksha/pyladies-dojo/blob/master/Koans.mediawiki Koans page]
 
 
