@@ -6,7 +6,7 @@ A: We are [http://blr.pyladies.com Pyladies-Bangalore].
 
 == Q: What is the Pyladies-Dojo all about? ==
 
-A: The dojo is an informal Python-learning session held each week in Bangalore. It was inspired by [DojoRio](http://dojorio.org/about/)
+A: The dojo is an informal Python-learning session held each week in Bangalore. It was inspired by [http://dojorio.org/about/ DojoRio]
 meetups in Brazil where they apply the "[http://smallactsmanifesto.org  small acts manifesto]". The idea being, create a friendly atmosphere which encourages newbies, intermediate and expert programmers to share and learn with the community. 
 
 
@@ -78,6 +78,7 @@ The Dojo environment is totally collaborative, and every skill level is welcome.
 == Q: Can I start thinking about projects before the event? I have some suggestions for your meetups... ==
 
 A: Yes, your suggestions are welcome. Write to the [https://mail.python.org/mailman/listinfo/pyladies-blr Pyladies-BLR mailing list] or add your tutorial ideas on the [https://github.com/svaksha/pyladies-dojo/wiki/Koans Koans] wikipage - it serves as the placeholder for topics that can be picked up for future events.
+
 
 == Q: Can we form a study group around MOOC (Udacity, Coursera, ...) courses == 
 A: All the MOOC courses have a honor code that participants are required to sign. Everyone should write code that can be shared, aka. free and open source software (FOSS)  honor code prohibits students from sharing code while  our dojo encourages code sharing akin to Foss projects, hence unethical to do any group work around MOOC courses.
