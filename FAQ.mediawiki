@@ -105,7 +105,7 @@ A: No, and NO - we definitely do NOT hand out pieces of paper. We are not an Ins
 
 == Q: I don't own a laptop. Can I attend the Dojo? ==
 
-A: Folks that dont have laptops are also welcome - at CIS we cant provide machines to work on but you can watch others, ask questions, learn by pair programming, etc.. If we use the Thoughworks office as our venue, they might be able to arrange for spare machines (subject to confirmation). 
+A: Folks that dont have laptops are also welcome - at CIS we cant provide machines to work on but you can watch others code, ask questions, learn by pair programming, etc.. If we use the Thoughworks office as our venue, they might be able to arrange for spare machines (subject to confirmation). 
 
 
 == Q: I don't know how to code. Can I attend the Dojo? But, I dont know "xyz"? ==
@@ -113,8 +113,8 @@ A: Folks that dont have laptops are also welcome - at CIS we cant provide machin
 A: You are welcome to attend if you are willing to invest the time and energy to learn Python. Its OK to *not* know something so long as you want to learn how to code. Nobody will mock you for not groking Python decorators, or publicly saying “I dont know that”. All Pyladies events are bound by the [http://www.python.org/psf/codeofconduct/ Python-CoC], in addition to which we expect all attendees to follow our [http://www.pyladies.com/CodeOfConduct/ Code of Conduct].
 
 
-== Q: I dont have a CS degree / I'm not an Engineer - can I learn to code? ==
+== Q: I dont have a CS degree / I'm not an Engineer, can I learn to code? ==
 
-A: A piece of paper should not limit your potential, so if you can put in the effort to learn programming, then you can definitely learn to code. The hard work involved in becoming a good programmer is yours. We are mere catalysts that provide a free space, wifi, and like-minded Pythonistas.
+A: A piece of paper should not limit your potential, so if you can put in the effort to learn Python, then you can definitely learn to code. We are mere catalysts that provide a free space, wifi, and like-minded Pythonistas, with you putting in the hard work to become a good programmer.
 
 
