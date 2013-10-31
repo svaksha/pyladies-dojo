@@ -69,8 +69,10 @@ Because the dojo's are an informal learning environment, you will learn and shar
 * pair up to practice concepts through bite-sized lessons.
 * reverse engineering and steping through the existing code base to see how it was solved.
 * solving problems bottom up as well as top down. 
-* working on a random programming challenge
+* working on specific algorithms or a random programming challenge
 * reading others code and experimenting with your system to see what happens if you break it.
+
+In toto, first, we will define the problem to be solved and secondly, code after we discuss the ideas, algorithms, alternatives, choices, etc.. The keywords being: People, Sharing, Knowledge, Learning together, Ideas, Foss, Algorithms, Constructions.
 
 The Dojo environment is totally collaborative, and every skill level is welcome. We are not replicating or competing with MOOC's, nor do we compete with one another, as each individual has a different approach to learning and we would like to build on that. If you want to learn Python programming or want to work with others Foss code, we'll help you find a path to learn it. 
 

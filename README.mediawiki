@@ -15,7 +15,7 @@ Add your tutorials and topic suggestions to the [https://github.com/svaksha/pyla
 
 
 == Volunteer FAQ ==
-* READ the [https://github.com/svaksha/pyladies-dojo/blob/master/DojoHowto.mediawiki HowTo notes for Dojo organizers and volunteers] and then add yourself to the [https://github.com/svaksha/pyladies-dojo/blob/master/Volunteers.mediawiki Volunteers] list.
+* READ the [https://github.com/svaksha/pyladies-dojo/blob/master/VolunteerHandbook/DojoHowto.mediawiki HowTo notes for Dojo organizers and volunteers] and then add yourself to the [https://github.com/svaksha/pyladies-dojo/blob/master/VolunteerHandbook/Volunteers.mediawiki Volunteers] list.
 * Our [https://github.com/svaksha/pyladies-dojo/blob/master/FAQ.mediawiki FAQ] page attempts to answer some queries that attendees may have about the python dojo meetups.
 
 
