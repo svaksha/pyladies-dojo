@@ -6,7 +6,7 @@ Pyladies will be hosting Python coding dojos for women on a weekly basis and thi
 
 == Sat, 2013-11-09 Dojo ==
 * [http://learnpythonthehardway.org LPTHW].
-Add your tutorials and topic suggestions to the [https://github.com/svaksha/pyladies-dojo/blob/master/Koans.mediawiki Koans page]
+Add your tutorials and topic suggestions to the [https://github.com/svaksha/pyladies-dojo/blob/master/Kata.mediawiki Kata (practice) page]
 
 
 == Venue, Registration/RSVP ==

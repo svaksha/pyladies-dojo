@@ -17,11 +17,14 @@ Hosting python-dojos requires planning for the space, wifi, and other logistics 
 
 === WiFi? ===
 * Does your venue provide enough bandwidth? 
+* Dont hesitate to set some ground rules - no torrent downloads, etc.. 
 '''Tip:''' A good rule of thumb is to make sure there will be at least one router for every 25 people.
 
 === Power? ===
 * Are there enough power outlets? 
 * Will you need to bring in power strips/surge protectors?
+* If your city has frequent power outages, do they have a backup generator? 
+  '''Tip:''' Keep an alternate plan for your dojo activities just in case you get hit by the unforseen.
 
 === Hours? ===
 * Make sure you have access to the venue a little before the start of your event. 
@@ -29,7 +32,7 @@ Hosting python-dojos requires planning for the space, wifi, and other logistics 
 * Find out if there are any Security officers in the building that you need to know about? Access codes you need to know about? Keys or access cards you must carry with you? Be sure to have the phone number of the person who runs the venue, just in case.
 
 === A/C & Heat? ===
-* Does the venue have any automatic timers for heat and cooling? Get familiar with those but it would be better to keep the contact name & telephone number for the contact person who can make those adjustments for you.
+* Does the venue have any automatic timers for heat and cooling? Get familiar with those but it would be better to keep the contact name & telephone number for the security or contact person who can make those adjustments for you.
 
 
 === Workspace? ===
@@ -50,14 +53,14 @@ Hosting python-dojos requires planning for the space, wifi, and other logistics 
 * Are you having [http://en.wikipedia.org/wiki/Lightning_talk Lightning talks] at the end of your dojo? (Tip: http://software.ac.uk/home/cw11/giving-good-lightning-talk Giving a good lightning talk)
 
 ===== Projector & A/V? =====
-* Does the venue have a projector and A/V System? If not, you will need to source one.
+* Does the venue have a projector and A/V System? If not, you will need to source one, if you plan on having long talks. 
 * If yes, then you need to know how to use it, or have security or someone in charge help you with it.
-'''Hint:''' You dont want to have to deal with the additional burden of being accused of breaking expensive equipment.
+'''Tip:''' You dont want to have to deal with the additional burden of being accused of breaking expensive equipment.
 
 ===== White Boards? =====
 * Make sure there are plenty of white boards. If not, find some you can use for the weekend. 
 * Every team should have either a whiteboard or a flipchart to work with.
-'''Tip:''' Portable whiteboards are an effective space barrier between teams.
+'''Tip:''' Portable whiteboards are another sharable option.
 
 === Parking? ===
 * Is there enough parking for everyone? Make sure to give attendees information about parking before the event.
@@ -69,12 +72,12 @@ Hosting python-dojos requires planning for the space, wifi, and other logistics 
 
 === Bathrooms? ===
 * Are there enough bathrooms? On every floor? One toilet for 50 people will be a nightmare. 
-* Are they shared (unisex) or seperate for Men and Women? 
-* Are the bathrooms automated? Do they lock after normal business hours? If so, make sure you coordinate with security regarding this.
+* Are they shared (unisex) or separate for Men and Women? 
+* Are the bathrooms available (or locked) after normal business hours? If so, make sure you coordinate with security regarding this.
 
 === Security? ===
 * Some venues have very strict security policies - some offices have IP restrictions and may not allow external electronic devices within their premises, or you may have to deposit them with the security before entering the building. 
-* Make sure to ask about security protocol when you tour the venue (both in terms of areas you can access, and which internet and network points participants can access). If security protocols are strict, ask to make arrangements for temporary access codes or visitor badges. 
+* Make sure to ask about security protocol when you tour the venue (both in terms of areas you can access, and which internet and network points participants can access). If security protocols are strict, ask about temporary access codes or visitor badges. 
 '''Tip:''' Its better to look for venues that are not very rigid or have too many security hoops to jump through.
 
 
