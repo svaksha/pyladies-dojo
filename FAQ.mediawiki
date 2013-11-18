@@ -1,17 +1,15 @@
 = PYLADIES =
 == Q: Who are you? ==
-
-A: We are [http://blr.pyladies.com Pyladies-Bangalore].
+We are [http://blr.pyladies.com Pyladies-Bangalore].
 
 
 == Q: What is the Pyladies-Dojo all about? ==
+Our goal is to create a friendly atmosphere for female programmers and encourage them to share and learn with the Foss community. The first attempt to kick-start dojo's that would onboard female programmers to work with Python was in [http://svaksha.com/post/2010/Weekly-Python-Dojo-at-Bangalore 2010], so the forthcoming dojo sessions will be a continuation of the informal Python learning sessions; akin to the [http://dojorio.org/about/ DojoRio] meetups in Brazil where they apply the "[http://smallactsmanifesto.org small acts manifesto]". 
 
-A: Our goal is to create a friendly atmosphere for female programmers and encourage them to share and learn with the Foss community. The first attempt to kick-start dojo's that would onboard female programmers to work with Python was in [http://svaksha.com/post/2010/Weekly-Python-Dojo-at-Bangalore 2010], so the forthcoming dojo sessions will be a continuation of the informal Python learning sessions; akin to the [http://dojorio.org/about/ DojoRio] meetups in Brazil where they apply the "[http://smallactsmanifesto.org small acts manifesto]". 
 
 
 == Q: Why does this group exist? Are men welcome? Why is Pyladies having a Python Dojo? ==
-
-A: The short, the code dojos are for female programmers. The long, we are passionate about Python and programming, either use or want to learn Python in a collaborative environment. One of our goal(s) is to share and learn Python, tips and tricks to improve our programming-fu. The focus is on the learning process, as we take small steps towards the solution and try to focus on good development practices. 
+The short, the code dojos are for female programmers. The long, we are passionate about Python and programming, either use or want to learn Python in a collaborative environment. One of our goal(s) is to share and learn Python, tips and tricks to improve our programming-fu. The focus is on the learning process, as we take small steps towards the solution and try to focus on good development practices. 
 
 Since our target audience is Women (incl. those who identify as one) and their friends who have limited (or no) programming experience, our events are welcoming and respectful of anyone interesting in programming. ATM, We are currently not very strict about gender and men (ref. caveat note below) who want to volunteer, contribute or learn Python are welcome to attend the dojo. Register and [https://www.meetup.com/PyladiesBangalore/ RSVP via our Meetup page] to help us manage the venue logistics.
 
@@ -20,21 +18,18 @@ Since our target audience is Women (incl. those who identify as one) and their f
 
 
 == Q: Are Pyladies events (workshops, meetups, hackathons, sprints) bound by the CoC? ==
-
-A: YES. The [http://pyfound.blogspot.in/2013/06/announcing-code-of-conduct-for-use-by.html CoC is mandatory] for any event that is funded by grants from the PSF. That said, all the Pyladies dojo events are bound by the [http://www.python.org/psf/codeofconduct/ Python-CoC], in addition to which we expect all attendees to follow our own [http://www.pyladies.com/CodeOfConduct/ Code of Conduct].
+YES. The [http://pyfound.blogspot.in/2013/06/announcing-code-of-conduct-for-use-by.html CoC is mandatory] for any event that is funded by grants from the PSF. That said, all the Pyladies dojo events are bound by the [http://www.python.org/psf/codeofconduct/ Python-CoC], in addition to which we expect all attendees to follow our own [http://www.pyladies.com/CodeOfConduct/ Code of Conduct].
 
 
 
 == Q: How can I help/volunteer? ==
-
-A: We are always looking for [https://github.com/svaksha/pyladies-dojo/wiki/Volunteers volunteers], space and sponsors for our events. If you wish to host an event in a different part of Bangalore, or in another Indian city, do [pyladies-blr@python.org contact us] for details on how to kickstart this process. 
+We are always looking for [https://github.com/svaksha/pyladies-dojo/wiki/Volunteers volunteers], space and sponsors for our events. If you wish to host an event in a different part of Bangalore, or in another Indian city, do [pyladies-blr@python.org contact us] for details on how to kickstart this process. 
 
 
 
 = DOJO =
 == Q: When and where is it held? ==
-
-A: On Saturday at [https://github.com/svaksha/pyladies-dojo/wiki/Venue-BLR CIS, Bangalore]. Besides the space and free-wifi, CIS will also provide us with snacks and tea/coffee, etc.. '''Thank you CIS'''!
+On Saturday at [https://github.com/svaksha/pyladies-dojo/wiki/Venue-BLR CIS, Bangalore]. Besides the space and free-wifi, CIS will also provide us with snacks and tea/coffee, etc.. '''Thank you CIS'''!
 
 '''NOTE''' : While you are inside the CIS (or Thoughtworks office) for any Pyladies hosted event, we suggest the following:
 
@@ -45,8 +40,7 @@ Thanks!
 
 
 == Q: What should I bring? Is there a ToDo list? ==
-
-A: CIS will have coffee/tea/water and light snacks on hand, but you are free to bring your own water and snacks, along with the following:
+CIS will have coffee/tea/water and light snacks on hand, but you are free to bring your own water and snacks, along with the following:
 * Your enthusiasm to learn and share knowledge. 
 * A laptop computer with a compatible network card, to enable you to connect to the CIS wi-fi network. 
 * Python, Virtual Environment, Git, and your favorite editor already set up on your laptop running either, a Linux distribution, Mac or Windows. If it runs something else, that's cool, but you might run into issues with the workshop. It is important that you bring a computer you can program on, rather than a tablet or mobile phone.
@@ -54,15 +48,13 @@ A: CIS will have coffee/tea/water and light snacks on hand, but you are free to 
 
 
 == Q: How much do these weekly Dojo sessions cost? ==
-
-A: Its FREE, but you will need to [htts://www.meetup.com/PyladiesBangalore/ register and RSVP via our Meetup page]. This helps us keep an eye on the logistics, decide if we should request for a larger room, etc..
+Its FREE, but you will need to [htts://www.meetup.com/PyladiesBangalore/ register and RSVP via our Meetup page]. This helps us keep an eye on the logistics, decide if we should request for a larger room, etc..
 
 
 
 
 == Q: How is the dojo structured? Are you replicating structured courses that MOOC's (Udacity, Coursera, ...) offer? ==
-
-A: Not really. We may have a broad agenda for a particular day, which goes out via the [https://mail.python.org/pipermail/pyladies-blr/ mailing list announcements]. Other than that, there is no curriculum, or fixed CS syllabi that we follow because no two learners are the same. If you are the curious kind, always tinkering and trying to learn something new, this is your chance to team up with like-minded women in a shared space to write code and help each other learn. 
+Not really. We may have a broad agenda for a particular day, which goes out via the [https://mail.python.org/pipermail/pyladies-blr/ mailing list announcements]. Other than that, there is no curriculum, or fixed CS syllabi that we follow because no two learners are the same. If you are the curious kind, always tinkering and trying to learn something new, this is your chance to team up with like-minded women in a shared space to write code and help each other learn. 
 
 Because the dojo's are an informal learning environment, you will learn and share knowledge by:
 
@@ -84,27 +76,24 @@ The Dojo environment is meant to be a collaborative effort, hence, every skill l
 
 
 == Q: Can I start thinking about projects before the event? I have some suggestions for your meetups... ==
-
-A: Yes, your suggestions are welcome. Write to the [https://mail.python.org/mailman/listinfo/pyladies-blr Pyladies-BLR mailing list] or add your tutorial ideas on the [https://github.com/svaksha/pyladies-dojo/wiki/Koans Koans] wikipage - it serves as the placeholder for topics that can be picked up for future events.
+Yes, your suggestions are welcome. Write to the [https://mail.python.org/mailman/listinfo/pyladies-blr Pyladies-BLR mailing list] or add your tutorial ideas on the [https://github.com/svaksha/pyladies-dojo/wiki/Koans Koans] wikipage - it serves as the placeholder for topics that can be picked up for future events.
 
 
 
 == Q: Can we form a study group around MOOC (Udacity, Coursera, ...) courses == 
-A: All the MOOC courses have a honor code that participants are required to sign and adhere to. Everyone should write code that can be shared, aka. free and open source software (FOSS). The honor code prohibits students from sharing code while our dojo encourages code sharing akin to Foss projects, hence unethical to do any group work around MOOC courses.
+All the MOOC courses have a honor code that participants are required to sign and adhere to. Everyone should write code that can be shared, aka. free and open source software (FOSS). The honor code prohibits students from sharing code while our dojo encourages code sharing akin to Foss projects, hence unethical to do any group work around MOOC courses.
 
 
 
 
 = MISCELLENEOUS =
 == Q: What time do I need to get there? Can I walk-in late? ==
-
-A: If you are new to Python and/or need help with installation issues, we suggest that you come in a few minutes early. This will help the volunteers keep you in pace with the rest of the group. That said, you can walk-in later but if you are too late you will miss out on interesting learning bits as the dojos will not be meeting for more than 3 hours each week, albeit individuals may stay back to continue working until the host closes for the day.
+If you are new to Python and/or need help with installation issues, we suggest that you come in a few minutes early. This will help the volunteers keep you in pace with the rest of the group. That said, you can walk-in later but if you are too late you will miss out on interesting learning bits as the dojos will not be meeting for more than 3 hours each week, albeit individuals may stay back to continue working until the host closes for the day.
 
 
 
 == Q: Will there be any lectures, discussions, talks, etc.. ? ==
-
-A: Not in the near future as we are all about '''you''' getting a hands-on experience with Python programming. The focus is on the practical than the theoretical, so depending on the situation, we will split into smaller groups, or pair-program to help each other understand something new. That means the person sitting next to you can be your teacher or you can ping someone else who is not busy for help. 
+Not in the near future as we are all about '''you''' getting a hands-on experience with Python programming. The focus is on the practical than the theoretical, so depending on the situation, we will split into smaller groups, or pair-program to help each other understand something new. That means the person sitting next to you can be your teacher or you can ping someone else who is not busy for help. 
 
 As a long term objective, in future, we may think about (occasionally) hosting guest speakers interested in conducting workshops and/or sprints for their FOSS projects. 
 
@@ -113,27 +102,23 @@ If you are a core-dev for any Python package and you want to conduct workshops t
 
 
 == Q: Are there any teachers and do you give any certificates? ==
-
-A: No, and NO - we definitely do NOT hand out pieces of paper. We are not an Institute, nor a commercial entity in the training or education business and dont do commercial certifications. Pyladies is a volunteer effort and we have no teachers, only facilitators:: [https://github.com/xenathewarrior Anu], [https://github.com/suni0847 Sunita], [https://github.com/svaksha Svaksha] and other fellow attendees, who will be around to help each other learn Python. Yeah, the facilitators, like you are learners too!
+No, and NO - we definitely do NOT hand out pieces of paper. We are not an Institute, nor a commercial entity in the training or education business and dont do commercial certifications. Pyladies is a volunteer effort and we have no teachers, only facilitators:: [https://github.com/xenathewarrior Anu], [https://github.com/suni0847 Sunita], [https://github.com/svaksha Svaksha] and other fellow attendees, who will be around to help each other learn Python. Yeah, the facilitators, like you are learners too!
 
 
 == Q: I don't own a laptop. Can I attend the Dojo? ==
-
-A: Folks that dont have laptops are also welcome - at CIS we cannot provide machines to work on but you can watch others code, ask questions, learn by pair programming, etc.. In future, if we use the Thoughworks office as our venue, they might be able to arrange for spare machines (subject to confirmation). 
+Folks that dont have laptops are also welcome - at CIS we cannot provide machines to work on but you can watch others code, ask questions, learn by pair programming, etc.. In future, if we use the Thoughworks office as our venue, they might be able to arrange for spare machines (subject to confirmation). 
 
 
 
 == Q: I don't know how to code. Can I attend the Dojo? But, I dont know "xyz"? ==
-
-A: You are welcome to attend if you are willing to invest the time and energy to learn Python. Its OK to *not* know something so long as you want to learn how to code. Nobody will mock you for not groking Python decorators, or publicly saying “I dont know”. 
+You are welcome to attend if you are willing to invest the time and energy to learn Python. Its OK to *not* know something so long as you want to learn how to code. Nobody will mock you for not groking Python decorators, or publicly saying “I dont know”. 
 
 Besides, all Pyladies events are bound by the [http://www.python.org/psf/codeofconduct/ Python-CoC], in addition to which we expect all attendees to follow our [http://www.pyladies.com/CodeOfConduct/ Code of Conduct].
 
 
 
 == Q: I dont have a CS degree / I'm not an Engineer, can I learn to code? ==
-
-A: A piece of paper should not limit your potential, so if you can put in the effort to learn Python, then you can definitely learn to code. We are mere catalysts that provide a free space, wifi, and like-minded Pythonistas, with you putting in the hard work to become a good programmer. 
+A piece of paper should not limit your potential, so if you can put in the effort to learn Python, then you can definitely learn to code. We are mere catalysts that provide a free space, wifi, and like-minded Pythonistas, with you putting in the hard work to become a good programmer. 
 
 
 
