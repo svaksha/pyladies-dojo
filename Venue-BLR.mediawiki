@@ -1,4 +1,4 @@
-These are the Venues Pyladies-BLR currently uses for their meetups. We are open to the idea of hosting an event in a different part of the city, or in another Indian city. Do [pyladies-blr@python.org get in touch with us] with your suggestions.
+These are the Venues Pyladies-BLR currently uses for their meetups. We are open to the idea of hosting an event in a different part of the city, or in another Indian city. Email "pyladies-blr AT python DOT org", with your suggestions.
 
 = CIS =
 
