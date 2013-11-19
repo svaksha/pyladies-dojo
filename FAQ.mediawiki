@@ -76,7 +76,7 @@ The Dojo environment is meant to be a collaborative effort, hence, every skill l
 
 
 == Q: Can I start thinking about projects before the event? I have some suggestions for your meetups... ==
-Yes, your suggestions are welcome. Write to the [https://mail.python.org/mailman/listinfo/pyladies-blr Pyladies-BLR mailing list] or add your tutorial ideas on the [https://github.com/svaksha/pyladies-dojo/wiki/Koans Koans] wikipage - it serves as the placeholder for topics that can be picked up for future events.
+Yes, your suggestions are welcome. Write to the [https://mail.python.org/mailman/listinfo/pyladies-blr Pyladies-BLR mailing list] or add your tutorial ideas on the [https://github.com/svaksha/pyladies-dojo/blob/master/Kata.mediawiki] wikipage, that serves as the placeholder for topics that can be picked up for future events.
 
 
 
@@ -93,16 +93,16 @@ If you are new to Python and/or need help with installation issues, we suggest t
 
 
 == Q: Will there be any lectures, discussions, talks, etc.. ? ==
-Not in the near future as we are all about '''you''' getting a hands-on experience with Python programming. The focus is on the practical than the theoretical, so depending on the situation, we will split into smaller groups, or pair-program to help each other understand something new. That means the person sitting next to you can be your teacher or you can ping someone else who is not busy for help. 
+Not in the near future. Dojos are all about '''you''' getting a hands-on experience with Python programming and the focus is on the practical than the theoretical, so depending on the situation, we will split into smaller groups, or pair-program to help each other understand something new. That means the person sitting next to you can be your teacher or you can ping someone else who is not busy for help. 
 
 As a long term objective, in future, we may think about (occasionally) hosting guest speakers interested in conducting workshops and/or sprints for their FOSS projects. 
 
-If you are a core-dev for any Python package and you want to conduct workshops to introduce newbies to bug-squashing, feel free to talk to us. We would love to have you conduct workshops and sprints at the dojo's.
+If you are a core-dev for any Python package and want to conduct workshops to introduce newbies to bug-squashing, feel free to talk to us. We would love to have you conduct workshops and sprints at the dojos.
 
 
 
 == Q: Are there any teachers and do you give any certificates? ==
-No, and NO - we definitely do NOT hand out pieces of paper. We are not an Institute, nor a commercial entity in the training or education business and dont do commercial certifications. Pyladies is a volunteer effort and we have no teachers, only facilitators:: [https://github.com/xenathewarrior Anu], [https://github.com/suni0847 Sunita], [https://github.com/svaksha Svaksha] and other fellow attendees, who will be around to help each other learn Python. Yeah, the facilitators, like you are learners too!
+No, and NO - we definitely do NOT hand out pieces of paper. We are not an Institute, nor a commercial entity in the training or education business and dont do commercial certifications. Pyladies is a volunteer effort and we have no teachers, only facilitators:: [https://github.com/xenathewarrior Annapoornima Koppad], [https://github.com/sunitavc Sunita Venkatachalam], [https://github.com/svaksha Svaksha] and other fellow attendees, who will be around to help each other learn Python. Yeah, the facilitators, like you are learners too!
 
 
 == Q: I don't own a laptop. Can I attend the Dojo? ==
@@ -111,9 +111,7 @@ Folks that dont have laptops are also welcome - at CIS we cannot provide machine
 
 
 == Q: I don't know how to code. Can I attend the Dojo? But, I dont know "xyz"? ==
-You are welcome to attend if you are willing to invest the time and energy to learn Python. Its OK to *not* know something so long as you want to learn how to code. Nobody will mock you for not groking Python decorators, or publicly saying “I dont know”. 
-
-Besides, all Pyladies events are bound by the [http://www.python.org/psf/codeofconduct/ Python-CoC], in addition to which we expect all attendees to follow our [http://www.pyladies.com/CodeOfConduct/ Code of Conduct].
+You are welcome to attend if you are willing to invest the time and energy to learn Python. Its OK to *not* know something so long as you want to learn how to code. Nobody will mock you for not groking Python decorators, or publicly saying “I dont know”.  Besides, all Pyladies events are bound by the [http://www.python.org/psf/codeofconduct/ Python-CoC], in addition to which we expect all attendees to follow our [http://www.pyladies.com/CodeOfConduct/ Code of Conduct].
 
 
 
