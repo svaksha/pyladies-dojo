@@ -1,17 +1,17 @@
-
+= Pyladies Dojo =
 Welcome to the [https://github.com/svaksha/pyladies-dojo/ Pyladies-Dojo repo], our planning space for the python-dojo events.
 
 Pyladies will be hosting Python coding dojos for women on a weekly basis and this repo contains a few notes you will need to know to make the best of the weekly meetups inorder to help it run as smoothly as possible.
 
 
-== Sat, 2013-11-09 Dojo ==
+== Sat, 2013-12-07 Dojo ==
 * [http://learnpythonthehardway.org LPTHW].
 Add your tutorials and topic suggestions to the [https://github.com/svaksha/pyladies-dojo/blob/master/Kata.mediawiki Kata (practice) page]
 
 
 == Venue, Registration/RSVP ==
 * Bangalore: 1000-1300 hrs at [http://cis-india.org/about CIS], Bangalore - read the [https://github.com/svaksha/pyladies-dojo/blob/master/Venue-BLR.mediawiki venue page] for direction details.
-* Register and [https://www.meetup.com/PyladiesBangalore/ RSVP via our Meetup page]
+* Register and [https://www.meetup.com/PyladiesBangalore/ RSVP via our Meetup page]. (PS: Registration is limited).
 
 
 == Volunteer FAQ ==
@@ -19,7 +19,11 @@ Add your tutorials and topic suggestions to the [https://github.com/svaksha/pyla
 * Our [https://github.com/svaksha/pyladies-dojo/blob/master/FAQ.mediawiki FAQ] page attempts to answer some queries that attendees may have about the python dojo meetups.
 
 
-== LICENSE ==
+== CoC ==
+All Pyladies events are bound by the [http://www.python.org/psf/codeofconduct/ Python-CoC], in addition to which we expect all attendees to follow the PyLadies [http://www.pyladies.com/CodeOfConduct/ Code of Conduct].
+
+
+== License ==
 * COPYRIGHT © 2013 [https://github.com/svaksha SVAKSHA] AllRightsReserved.
 * [http://www.gnu.org/licenses/agpl.html AGPLv3 LICENSE]
 The above Copyright notice and this permission notice must be included in all copies of your copy and/or fork of this repo.
