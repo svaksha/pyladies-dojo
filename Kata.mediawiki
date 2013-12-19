@@ -10,6 +10,10 @@ This page is a place holder for agendas for the weekly (Saturday) dojo sessions.
 * Lynn's [http://newcoder.io/tutorials/ tutorials] and the [https://github.com/econchick/new-coder github repo].
 
 
+= Links =
+* Andy R. Terrel on [http://andy.terrel.us/blog/2012/09/27/starting-with-python/ Getting started with Python in HPC]
+
+
 = FOSS projects =
 === Pandas ===
 * [http://pandas.pydata.org/developers.html#contributing-to-the-documentation Contributing to the documentation]
