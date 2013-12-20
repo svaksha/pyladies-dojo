@@ -11,7 +11,7 @@ Pyladies will be hosting Python coding dojos for women on a weekly basis and thi
 
 
 == Venue, Registration/RSVP ==
-* Bangalore: 1100-1300 hrs at [http://cis-india.org/about CIS], Bangalore - read the [https://github.com/svaksha/pyladies-dojo/blob/master/Venue-BLR.mediawiki venue page] for direction details.
+* Bangalore: '''1100-1400''' hrs at [http://cis-india.org/about CIS], Bangalore - read the [https://github.com/svaksha/pyladies-dojo/blob/master/Venue-BLR.mediawiki venue page] for direction details.
 * Register and [https://www.meetup.com/PyladiesBangalore/ RSVP via our Meetup page]. (PS: Registration is limited).
 
 

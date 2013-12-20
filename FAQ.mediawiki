@@ -93,11 +93,13 @@ If you are new to Python and/or need help with installation issues, we suggest t
 
 
 == Q: Will there be any lectures, discussions, talks, etc.. ? ==
-Not in the near future. Dojos are all about '''you''' getting a hands-on experience with Python programming and the focus is on the practical than the theoretical, so depending on the situation, we will split into smaller groups, or pair-program to help each other understand something new. That means the person sitting next to you can be your teacher or you can ping someone else who is not busy for help. 
+Not in the near future. 
 
-As a long term objective, in future, we may think about (occasionally) hosting guest speakers interested in conducting workshops and/or sprints for their FOSS projects. 
+Dojos are all about '''you''' getting a hands-on experience with Python programming and the focus is on the practical than the theoretical. When you write code, as opposed to listening to someone talk for 30 minutes about what "foo" package does, you are learning to build something that is important to you. Nobody is born a talented programmer, that comes from '''[http://danwaldschmidt.com/2013/10/attitude/insanity-behind-something-amazing practice]''' and that is exactly what you will be indulging in. 
 
-If you are a core-dev for any Python package and want to conduct workshops to introduce newbies to bug-squashing, feel free to talk to us. We would love to have you conduct workshops and sprints at the dojos.
+Nobody knows your work as well as you do and when you interact and explain your work, or why a particular part of the code isnt working, you have learned to debug your own code while learning how to construct a problem-set logically. Being a good coder is as much about documenting your code, as it is about helping and collaborating. Here is an interesting read on how to [http://adainitiative.org/2013/06/kicking-impostor-syndrome-in-the-head-lessons-from-adacamp-dc-and-sf/ kick the Imposter syndrome]
+ 
+As a long term objective, in future, we may think about (occasionally) hosting guest speakers interested in conducting workshops and/or sprints for their FOSS projects. If you are a core-dev for any Python package and want to conduct workshops to introduce newbies to bug-squashing, feel free to talk to us. We would love to have you conduct programming workshops and sprints at the dojos.
 
 
 
