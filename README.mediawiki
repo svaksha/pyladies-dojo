@@ -4,28 +4,27 @@ Welcome to the [https://github.com/svaksha/pyladies-dojo/ Pyladies-Dojo repo], o
 Pyladies will be hosting Python coding dojos for women on a weekly basis and this repo contains a few notes you will need to know to make the best of the weekly meetups inorder to help it run as smoothly as possible.
 
 
-== Sat, 2013-12-21 Dojo ==
+== Sat, 2014-Jan-04 Dojo ==
 * [https://github.com/svaksha/pyladies-dojo/blob/master/Jobs-FOSS/CIS.mediawiki CIS sponsored NVDA project]
 * Learn Python the hard way: [http://learnpythonthehardway.org Website] and the [http://learnpythonthehardway.org/book/ LPTHW Book]
-'''PS:'''Add your tutorials and topic suggestions to the [https://github.com/svaksha/pyladies-dojo/blob/master/Kata.mediawiki Kata (practice) page]
+* The [https://github.com/svaksha/pyladies-dojo/blob/master/Kata.mediawiki Kata (practice)] page has a list of tutorials and projects. Feel free to add your links / suggestions there and submit a pull request.
 
 
 == Venue, Registration/RSVP ==
-* Bangalore: '''1100-1400''' hrs at [http://cis-india.org/about CIS], Bangalore - read the [https://github.com/svaksha/pyladies-dojo/blob/master/Venue-BLR.mediawiki venue page] for direction details.
+* Bangalore: '''1300-1600''' hrs at [http://cis-india.org/about CIS], Bangalore - read the [https://github.com/svaksha/pyladies-dojo/blob/master/Venue-BLR.mediawiki venue page] for direction details.
 * Register and [https://www.meetup.com/PyladiesBangalore/ RSVP via our Meetup page]. (PS: Registration is limited).
 
 
 == Volunteer FAQ ==
-* READ the [https://github.com/svaksha/pyladies-dojo/blob/master/VolunteerHandbook/VenueHowto.mediawiki HowTo notes for Dojo organizers and volunteers] and then add yourself to the [https://github.com/svaksha/pyladies-dojo/blob/master/VolunteerHandbook/Volunteers.mediawiki Volunteers] list.
+* Read the [https://github.com/svaksha/pyladies-dojo/blob/master/VolunteerHandbook/VenueHowto.mediawiki HowTo notes for Dojo organizers and volunteers] and then add yourself to the [https://github.com/svaksha/pyladies-dojo/blob/master/VolunteerHandbook/Volunteers.mediawiki Volunteers] list.
 * Our [https://github.com/svaksha/pyladies-dojo/blob/master/FAQ.mediawiki FAQ] page attempts to answer some queries that attendees may have about the python dojo meetups.
 
 
-== CoC ==
-All Pyladies events are bound by the [http://www.python.org/psf/codeofconduct/ Python-CoC], in addition to which we expect all attendees to follow the PyLadies [http://www.pyladies.com/CodeOfConduct/ Code of Conduct].
+== Python Code of Conduct ==
+* All Pyladies events are bound by the [http://www.python.org/psf/codeofconduct/ Python-CoC], in addition to which we expect all attendees to follow the PyLadies [http://www.pyladies.com/CodeOfConduct/ Code of Conduct].
 
 
 == License ==
-* COPYRIGHT © 2013 [https://github.com/svaksha SVAKSHA] AllRightsReserved.
-* [http://www.gnu.org/licenses/agpl.html AGPLv3 LICENSE]
-The above Copyright notice and this permission notice must be included in all copies of your copy and/or fork of this repo.
-
+* COPYRIGHT © 2013-Now [https://github.com/svaksha SVAKSHA].
+* [http://www.gnu.org/licenses/agpl.html AGPLv3 LICENSE]. The above Copyright 
+  notice and this permission notice must be included in all copies of this repo.
