@@ -5,9 +5,9 @@ Pyladies will be hosting Python coding dojos for women on a weekly basis and thi
 
 
 == Sat, 2014-Jan-04 Dojo ==
-* [https://github.com/svaksha/pyladies-dojo/blob/master/Jobs-FOSS/CIS.mediawiki CIS sponsored NVDA project]
+Feel free to work on anything listed on the [https://github.com/svaksha/pyladies-dojo/blob/master/Kata.mediawiki Kata (practice)] page, which has a list of tutorials and projects. You can contribute to that page by forking this repo, and then make a pull request from your fork. Other projects include:
+* The [https://github.com/svaksha/pyladies-dojo/blob/master/Jobs-FOSS/CIS.mediawiki CIS sponsored NVDA project].
 * Learn Python the hard way: [http://learnpythonthehardway.org Website] and the [http://learnpythonthehardway.org/book/ LPTHW Book]
-* The [https://github.com/svaksha/pyladies-dojo/blob/master/Kata.mediawiki Kata (practice)] page has a list of tutorials and projects. Feel free to add your links / suggestions there and submit a pull request.
 
 
 == Venue, Registration/RSVP ==
