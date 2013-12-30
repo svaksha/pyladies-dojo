@@ -11,12 +11,12 @@ Feel free to work on anything listed on the [https://github.com/svaksha/pyladies
 
 
 == Venue, Registration/RSVP ==
-* Bangalore: '''1300-1600''' hrs at [http://cis-india.org/about CIS], Bangalore - read the [https://github.com/svaksha/pyladies-dojo/blob/master/Venue-BLR.mediawiki venue page] for direction details.
+* Bangalore: '''1000-1300''' hrs at [http://cis-india.org/about CIS], Bangalore - read the [https://github.com/svaksha/pyladies-dojo/blob/master/Venue-BLR.mediawiki venue page] for direction details.
 * Register and [https://www.meetup.com/PyladiesBangalore/ RSVP via our Meetup page]. (PS: Registration is limited).
 
 
 == Volunteer FAQ ==
-* Read the [https://github.com/svaksha/pyladies-dojo/blob/master/VolunteerHandbook/VenueHowto.mediawiki HowTo notes for Dojo organizers and volunteers] and then add yourself to the [https://github.com/svaksha/pyladies-dojo/blob/master/VolunteerHandbook/Volunteers.mediawiki Volunteers] list.
+* Read the [https://github.com/svaksha/pyladies-dojo/blob/master/VolunteerHandbook/VenueHowto.mediawiki HowTo notes for Dojo volunteer organizers], then add your name/github ID to the [https://github.com/svaksha/pyladies-dojo/blob/master/VolunteerHandbook/Volunteers.mediawiki Volunteers] list.
 * Our [https://github.com/svaksha/pyladies-dojo/blob/master/FAQ.mediawiki FAQ] page attempts to answer some queries that attendees may have about the python dojo meetups.
 
 
