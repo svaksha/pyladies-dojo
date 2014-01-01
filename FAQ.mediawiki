@@ -1,17 +1,18 @@
-= PYLADIES =
+= PyLadies-BLR Dojo =
+
 == Q: Who are you? ==
 We are [http://blr.pyladies.com Pyladies-Bangalore].
 
 
 == Q: What is the Pyladies-Dojo all about? ==
-Our goal is to create a friendly atmosphere for female programmers and encourage them to share and learn with the Foss community. The first attempt to kick-start dojo's that would onboard female programmers to work with Python was in [http://svaksha.com/post/2010/Weekly-Python-Dojo-at-Bangalore 2010], so the forthcoming dojo sessions will be a continuation of the informal Python learning sessions; akin to the [http://dojorio.org/about/ DojoRio] meetups in Brazil where they apply the "[http://smallactsmanifesto.org small acts manifesto]". 
+Our goal is to create a friendly atmosphere for female programmers and encourage them to share and learn with the Foss community. The first attempt to kick-start dojo's that would onboard female programmers to work with Python was in [http://svaksha.com/post/2010/Weekly-Python-Dojo-at-Bangalore 2010], so the forthcoming dojo sessions will be a continuation of the informal Python learning sessions, akin to the [http://dojorio.org/about/ DojoRio] meetups in Brazil where they apply the "[http://smallactsmanifesto.org small acts manifesto]". 
 
 
 
 == Q: Why does this group exist? Are men welcome? Why is Pyladies having a Python Dojo? ==
 The short, the code dojos are for female programmers. The long, we are passionate about Python and programming, either use or want to learn Python in a collaborative environment. One of our goal(s) is to share and learn Python, tips and tricks to improve our programming-fu. The focus is on the learning process, as we take small steps towards the solution and try to focus on good development practices. 
 
-Since our target audience is Women (incl. those who identify as one) and their friends who have limited (or no) programming experience, our events are welcoming and respectful of anyone interesting in programming. ATM, We are currently not very strict about gender and men (ref. caveat note below) who want to volunteer, contribute or learn Python are welcome to attend the dojo. Register and [https://www.meetup.com/PyladiesBangalore/ RSVP via our Meetup page] to help us manage the venue logistics.
+Since our target audience is Women (incl. those who identify as one) and their friends, with limited (or no) programming experience, our events are welcoming and respectful of anyone interesting in programming. ATM, we are not very strict about gender, so men (ref. caveat note below) who want to volunteer, contribute or learn Python are welcome to attend the dojo. Register and [https://www.meetup.com/PyladiesBangalore/ RSVP via our Meetup page] to help us manage the venue logistics.
 
 '''Caveat''':: If the number of male attendees dwarfs the female programmers, for future dojo sessions, we might change this policy to align with our primary priority - viz., encouraging female Python programmers.
 
@@ -35,7 +36,7 @@ On Saturday at [https://github.com/svaksha/pyladies-dojo/wiki/Venue-BLR CIS, Ban
 
 * Please do not enter into the main office work area. 
 * You are free to roam around the event and dining area (please cleanup after yourself) during the event. 
-* Avoid disturbing people in the office:: dont talk loudly, or be noisy, lower the ringtones, etc..
+* Avoid disturbing people in the office:: dont talk loudly, or be noisy, lower the mobile ringtones, etc..
 Thanks!
 
 
@@ -43,13 +44,12 @@ Thanks!
 CIS will have coffee/tea/water and light snacks on hand, but you are free to bring your own water and snacks, along with the following:
 * Your enthusiasm to learn and share knowledge. 
 * A laptop computer with a compatible network card, to enable you to connect to the CIS wi-fi network. 
-* Python, Virtual Environment, Git, and your favorite editor already set up on your laptop running either, a Linux distribution, Mac or Windows. If it runs something else, that's cool, but you might run into issues with the workshop. It is important that you bring a computer you can program on, rather than a tablet or mobile phone.
+* Python, Virtual environment, Git, and your favorite editor already set up on your laptop running either, a Linux distribution, Mac or Windows. If it runs something else, that's cool, but you might run into issues with the workshop. It is important that you bring a computer you can program on, rather than a tablet or mobile phone.
 * If you have a github account, please list it in your meetup profile (or any other public site), else create a new account and tell us about it.
 
 
 == Q: How much do these weekly Dojo sessions cost? ==
 Its FREE, but you will need to [htts://www.meetup.com/PyladiesBangalore/ register and RSVP via our Meetup page]. This helps us keep an eye on the logistics, decide if we should request for a larger room, etc..
-
 
 
 
@@ -121,5 +121,4 @@ A piece of paper should not limit your potential, so if you can put in the effor
 Nobody is born a talented programmer, that comes from '''[http://danwaldschmidt.com/2013/10/attitude/insanity-behind-something-amazing practice]''' and that is exactly what you will be indulging in. Nobody knows your work as well as you do and when you interact and explain your work, or why a particular part of the code isnt working, you have learned to debug your own code while learning how to construct a problem-set logically. 
 
 Being a good developer is as much about documenting your code, as it is about helping, collaborating, teaching and learning. Here is an interesting read on how to [http://adainitiative.org/2013/06/kicking-impostor-syndrome-in-the-head-lessons-from-adacamp-dc-and-sf/ kick the Imposter syndrome] and another on [http://heybigname.com/2013/01/21/how-to-become-a-better-developer-straight-talk how to become a better developer].
- 
 
