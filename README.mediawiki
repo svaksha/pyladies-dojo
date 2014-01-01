@@ -26,5 +26,4 @@ Feel free to work on anything listed on the [https://github.com/svaksha/pyladies
 
 == License ==
 * COPYRIGHT © 2013-Now [https://github.com/svaksha SVAKSHA].
-* [http://www.gnu.org/licenses/agpl.html AGPLv3 LICENSE]. The above Copyright 
-  notice and this permission notice must be included in all copies of this repo.
+* [http://www.gnu.org/licenses/agpl.html AGPLv3 LICENSE]. The above Copyright notice and this permission notice must be included in all copies of this repo.

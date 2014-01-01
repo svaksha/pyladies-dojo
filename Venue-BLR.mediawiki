@@ -1,15 +1,15 @@
-These are the Venues Pyladies-BLR currently uses for their meetups. We are open to the idea of hosting an event in a different part of the city, or in another Indian city. Email "pyladies-blr AT python DOT org", with your suggestions.
+CIS and TW are the two venues that Pyladies-BLR currently uses for their meetups. 
+We are open to the idea of hosting an event in a different part of the city, or in another Indian city. Email "pyladies-blr@python.org", with your suggestions.
 
 = CIS =
 
 [http://cis-india.org/about CIS], Bangalore is located at: 
 194, 2nd 'C' Cross, 
 4th Main, Domlur 2nd Stage
-Opposite Domlur Club (another landmark, if you cant find the TERI office).
-Bangalore 560 071 
-Karnataka
+Opp. Domlur Club (another landmark, if you cant find the TERI office).
+Bangalore 560071. Karnataka
 
-'''Phone''' : +91-80-4092-6283
+'''Phone''' : +91-80-4092-6283 ; +91-80-2535-0955.
 
 '''Google Map''': [https://maps.google.de/maps?expflags=enable_star_based_justifications:true&ie=UTF8&cid=9857706471034889432&q=Centre+for+Internet+and+Society&iwloc=A&gl=DE&hl=en https://maps.google.de/maps?expflags=enable_star_based_justifications:true&ie=UTF8&cid=9857706471034889432&q=Centre+for+Internet+and+Society&iwloc=A&gl=DE&hl=en]
 
@@ -23,9 +23,9 @@ From, https://en.wikipedia.org/wiki/Wikipedia:Meetup/Bangalore/Bangalore21#Getti
 
 * From Hosur Road, Electronics City, Koramangala, Sarjapur, Bannerghatta - Take Inner Ring Road/Intermediate Ring Road towards the Domlur-Old Airport flyover. Proceed straight towards Indra Nagar by taking the flyover. Take a Left just AFTER the flyover, before the Pedestrian Foot Over Bridge (FOB). Proceed forward and take the Third LEFT towards TERI. Take a Right before TERI and proceed as above.
 
-* From Old Airport, HAL, Marathalli, Varthur - Come on Old Airport-Varthur Road, cross Domlur flyover, take a Right AT the flyover proceed towards IndraNagar and proceed as per above to reach.
+* From Old Airport, HAL, Marathalli, Varthur - Come on Old Airport-Varthur Road, cross Domlur flyover, take a Right AT the flyover proceed towards Indiranagar and proceed as per above to reach CIS.
 
-*   From Old Madras, Road, Indira Nagar, Ulsoor - Take 100-feet Road (Under Metro) to Domlur flyover. Take a Right BEFORE the flyover, at the Pedestrian Foot Over Bridge. Proceed forward and take the Third LEFT towards TERI. Take a Right before TERI and proceed as above.
+*   From Old Madras, Road, Indiranagar, Ulsoor - Take 100-feet Road (Under Metro) to Domlur flyover. Take a Right BEFORE the flyover, at the Pedestrian Foot Over Bridge. Proceed forward and take the Third LEFT towards TERI. Take a Right before TERI and proceed as above.
 
 
 ===== By BMTC bus (public transport) =====
@@ -36,6 +36,6 @@ From, https://en.wikipedia.org/wiki/Wikipedia:Meetup/Bangalore/Bangalore21#Getti
 
 
 
-= ThoughWorks =
+= ThoughtWorks =
 
 ToDo.
