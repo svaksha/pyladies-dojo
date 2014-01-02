@@ -5,7 +5,7 @@ This page is a place holder for agendas for the weekly (Saturday) dojo sessions.
 * Learn Python the hard way: [http://learnpythonthehardway.org Website] and the [http://learnpythonthehardway.org/book/ LPTHW Book]
 * [www.diveintopython.net Dive into Python]
 * [http://www.diveintopython3.net  Dive into Python -3]
-* How to think like a Computer Scientist with [www.greenteapress.com/thinkpython/‎ Python].
+* How to think like a Computer Scientist with [www.greenteapress.com/thinkpython/thinkpython.html‎ Python].
 * [https://wiki.python.org/moin/BeginnersGuide/Programmers Beginners Guide] on Python.org.
 * [https://github.com/thekarangoel/Projects A list of practical projects] that anyone can solve in any programming language. This repo has code for over 100 projects in various categories in Python.
 * Lynn's [http://newcoder.io/tutorials/ tutorials] and the [https://github.com/econchick/new-coder github repo].
