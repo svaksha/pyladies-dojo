@@ -9,6 +9,8 @@ This page is a place holder for agendas for the weekly (Saturday) dojo sessions.
 * [https://wiki.python.org/moin/BeginnersGuide/Programmers Beginners Guide] on Python.org.
 * [https://github.com/thekarangoel/Projects A list of practical projects] that anyone can solve in any programming language. This repo has code for over 100 projects in various categories in Python.
 * Lynn's [http://newcoder.io/tutorials/ tutorials] and the [https://github.com/econchick/new-coder github repo].
+* [http://openbookproject.net/thinkcs/python/english3e/ http://openbookproject.net/thinkcs/python/english3e/]
+* [https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#python Free "Python" programming books].
 
 
 = Useful Blog Links =
