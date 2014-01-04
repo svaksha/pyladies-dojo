@@ -4,7 +4,7 @@ Welcome to the [https://github.com/svaksha/pyladies-dojo/ Pyladies-Dojo repo], o
 Pyladies will be hosting Python coding dojos for women on a weekly basis and this repo contains a few notes you will need to know to make the best of the weekly meetups inorder to help it run as smoothly as possible.
 
 
-== Date:: Sat, 2014-Jan-04; Time:: 1000-1300 hrs ==
+== Date:: Sat, 2014-Jan-11; Time:: 1000-1300 hrs ==
 Feel free to work on anything listed on the [https://github.com/svaksha/pyladies-dojo/blob/master/Kata.mediawiki Kata (practice)] page, which has a list of tutorials and projects. You can contribute to that page by forking this repo, and then make a pull request from your fork. Other projects include:
 * The [https://github.com/svaksha/pyladies-dojo/blob/master/Jobs-FOSS/CIS.mediawiki CIS sponsored NVDA project].
 * Learn Python the hard way: [http://learnpythonthehardway.org Website] and the [http://learnpythonthehardway.org/book/ LPTHW Book]
