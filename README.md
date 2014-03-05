@@ -2,13 +2,13 @@
 * [Venue](#venue)
 * [Register](#register)
 * [VolunteerFAQ](#volunteerfaq) 
-* [Python-COC](#pythoncoc)
+* [PythonCOC](#pythoncoc)
 * [License](#license) 
 
 
 Welcome to the [PyLadies-Dojo github page](http://svaksha.github.io/pyladies-dojo) and planning repository for the python-dojo events. PyLadies-BLR will be hosting Python coding dojos for women each monthly and this repo contains a few notes that tell you what to expect and how you can extract maximum adantage from it.
 
-# Time-Date
+# Time Date
 ### Date:: Sat, 2014-Jan-11
 ### Time:: 1000-1300 hrs 
 Feel free to work on anything listed on the [Kata (practice)](https://github.com/svaksha/pyladies-dojo/blob/master/Kata.mediawiki) page, which has a list of tutorials and projects. You can contribute to that page by forking this repo, and then make a pull request from your fork. Other projects include:
@@ -23,12 +23,12 @@ Feel free to work on anything listed on the [Kata (practice)](https://github.com
 * Registration is FREE but limited due to space and logistics constraints - [RSVP via our Meetup page](https://www.meetup.com/PyladiesBangalore/).
 
 
-# Volunteer-FAQ 
+# Volunteer FAQ 
 * Read the [HowTo notes for Dojo volunteer organizers](https://github.com/svaksha/pyladies-dojo/blob/master/VolunteerHandbook/VenueHowto.md), then add your name/github ID to the [Volunteers](https://github.com/svaksha/pyladies-dojo/blob/master/VolunteerHandbook/Volunteers.mediawiki)  list.
 * Our [FAQ](https://github.com/svaksha/pyladies-dojo/blob/master/FAQ.mediawiki) page attempts to answer some queries that attendees may have about the python dojo meetups.
 
 
-# Python-COC 
+# Python COC 
 * All PyLadies events are bound by the [Python-CoC](http://www.python.org/psf/codeofconduct/), in addition to which we expect all attendees to follow the PyLadies [Code of Conduct](http://www.pyladies.com/CodeOfConduct/).
 
 
